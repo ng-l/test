@@ -1,0 +1,47 @@
+{
+    "code": 200,
+    "result": {
+        "hots": [
+            {
+                "first": "Taylor Swift",
+                "second": 1
+            },
+            {
+                "first": "孙燕姿",
+                "second": 1
+            },
+            {
+                "first": "Radwimps",
+                "second": 1
+            },
+            {
+                "first": "儿时",
+                "second": 1
+            },
+            {
+                "first": "金玟岐",
+                "second": 1
+            },
+            {
+                "first": "Heartbeat",
+                "second": 1
+            },
+            {
+                "first": "Ready For It",
+                "second": 1
+            },
+            {
+                "first": "Time",
+                "second": 1
+            },
+            {
+                "first": "Despacito",
+                "second": 1
+            },
+            {
+                "first": "追光者",
+                "second": 1
+            }
+        ]
+    }
+}

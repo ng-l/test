@@ -1,0 +1,105 @@
+{
+    "code": 200,
+    "result": {
+        "recommendsong": [
+            {
+                "id": 1,
+                "name": "时光啊，请你慢一些走",
+                "num": "131.9万",
+                "pic": "http://p1.music.126.net/ozt2f3luyz3Jcu2deUdh7A==/109951163049570802.webp?imageView&thumbnail=369x0&quality=75&tostatic=0&type=webp"
+            },
+            {
+                "id": 2,
+                "name": "时光啊，请你慢一些走",
+                "num": "131.9万",
+                "pic": "http://p1.music.126.net/ozt2f3luyz3Jcu2deUdh7A==/109951163049570802.webp?imageView&thumbnail=369x0&quality=75&tostatic=0&type=webp"
+            },
+            {
+                "id": 3,
+                "name": "时光啊，请你慢一些走",
+                "num": "131.9万",
+                "pic": "http://p1.music.126.net/ozt2f3luyz3Jcu2deUdh7A==/109951163049570802.webp?imageView&thumbnail=369x0&quality=75&tostatic=0&type=webp"
+            },
+            {
+                "id": 4,
+                "name": "时光啊，请你慢一些走",
+                "num": "131.9万",
+                "pic": "http://p1.music.126.net/ozt2f3luyz3Jcu2deUdh7A==/109951163049570802.webp?imageView&thumbnail=369x0&quality=75&tostatic=0&type=webp"
+            },
+            {
+                "id": 5,
+                "name": "时光啊，请你慢一些走",
+                "num": "131.9万",
+                "pic": "http://p1.music.126.net/ozt2f3luyz3Jcu2deUdh7A==/109951163049570802.webp?imageView&thumbnail=369x0&quality=75&tostatic=0&type=webp"
+            },
+            {
+                "id": 6,
+                "name": "时光啊，请你慢一些走",
+                "num": "131.9万",
+                "pic": "http://p1.music.126.net/ozt2f3luyz3Jcu2deUdh7A==/109951163049570802.webp?imageView&thumbnail=369x0&quality=75&tostatic=0&type=webp"
+            }
+        ],
+        "newsong": [
+        {
+            "id": 515453363,
+            "name": "All Falls Down",
+            "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+            "sq" : 1
+        },
+        {
+            "id": 514765774,
+            "name": "蓝色降落伞",
+            "desc": "周深 - 蓝色降落伞",
+            "sq" : 0
+        },
+        {
+            "id": 514543471,
+            "type": 4,
+            "name": "Tell Me",
+            "desc": "金宝京 - 마녀의 법정 OST Part.2",
+            "sq" : 1
+        },
+        {
+            "id": 515540550,
+            "name": "Burning",
+            "desc": "Sam Smith - Burning",
+            "sq" : 0
+        },
+        {
+            "id": 515454330,
+            "name": "Take Her Place",
+            "desc": "Don Diablo / A R I Z O N A - Take Her Place",
+            "sq" : 1
+        },
+        {
+            "id": 514774334,
+            "name": "海浪",
+            "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+            "sq" : 1
+        },
+        {
+            "id": 515453256,
+            "name": "过去未来.PLUS",
+            "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+            "sq" : 1
+        },
+        {
+            "id": 515143188,
+            "name": "爱有使命",
+            "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+            "sq" : 1
+        },
+        {
+            "id": 515627403,
+            "name": "Nights Without You",
+            "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+            "sq" : 1
+        },
+        {
+            "id": 515452055,
+            "name": "金上瘾",
+            "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+            "sq" : 1
+        }
+    ]}
+}

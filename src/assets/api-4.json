@@ -1,0 +1,69 @@
+{
+    "code": 200, 
+    "result": {
+        "key": "音乐",
+        "tracks": [
+            {
+                "id": 515453363,
+                "name": "All Falls Down",
+                "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+                "sq" : 1
+            },
+            {
+                "id": 514765774,
+                "name": "蓝色降落伞",
+                "desc": "周深 - 蓝色降落伞",
+                "sq" : 0
+            },
+            {
+                "id": 514543471,
+                "type": 4,
+                "name": "Tell Me",
+                "desc": "金宝京 - 마녀의 법정 OST Part.2",
+                "sq" : 1
+            },
+            {
+                "id": 515540550,
+                "name": "Burning",
+                "desc": "Sam Smith - Burning",
+                "sq" : 0
+            },
+            {
+                "id": 515454330,
+                "name": "Take Her Place",
+                "desc": "Don Diablo / A R I Z O N A - Take Her Place",
+                "sq" : 1
+            },
+            {
+                "id": 514774334,
+                "name": "海浪",
+                "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+                "sq" : 1
+            },
+            {
+                "id": 515453256,
+                "name": "过去未来.PLUS",
+                "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+                "sq" : 1
+            },
+            {
+                "id": 515143188,
+                "name": "爱有使命",
+                "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+                "sq" : 1
+            },
+            {
+                "id": 515627403,
+                "name": "Nights Without You",
+                "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+                "sq" : 1
+            },
+            {
+                "id": 515452055,
+                "name": "金上瘾",
+                "desc": "Alan Walker / Noah Cyrus / Digital Farm Animals",
+                "sq" : 1
+            }
+        ]
+    }
+}
