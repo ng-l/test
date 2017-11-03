@@ -3,6 +3,7 @@ import Router from 'vue-router'
 // import HelloWorld from '@/components/HelloWorld'
 import Index from '@/components/Index'
 import Search from '@/components/Search'
+import Result from '@/components/Result'
 import Hot from '@/components/Hot'
 import hhh from '@/components/hhh'
 
@@ -19,6 +20,11 @@ export default new Router({
       path: '/search',
       name: 'search',
       component: Search
+    },
+    {
+      path: '/result',
+      name: 'result',
+      component: Result
     },
     {
       path: '/hot',

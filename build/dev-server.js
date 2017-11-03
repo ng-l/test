@@ -23,29 +23,6 @@ const proxyTable = config.dev.proxyTable
 
 const app = express()
 
-var api = require('../static/api-1.json')
-var apiCode = api.code
-var apiResult = api.result
-var apiRecommendSong = apiresult.recommendsong
-var apiNewSong = apiresult.newsong
-var routers = express.Router()
-
-routers.get('/recommend', function (req, res) {
-  res.json({
-    errno: 0,
-    data: apiRecommendSong
-  })
-});
-
-routers.get('/new', function (req, res) {
-  res.json({
-    errno: 0,
-    data: apiNewSong
-  })
-});
-
-app.use('/api', routers)
-
 const compiler = webpack(webpackConfig)
 
 const devMiddleware = require('webpack-dev-middleware')(compiler, {
